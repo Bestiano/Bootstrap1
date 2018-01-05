@@ -15,6 +15,6 @@ El landing page debe contener:
 
 Cuando termines el landing pages deberás subirlo a github pages y subir el link a la plataforma empieza. 
 
-Hint: Las imágenes que necesitas utilizar las puedes descargar desde el siguiente [enlace]()
+Hint: Las imágenes que necesitas utilizar las puedes descargar desde el siguiente [enlace](https://github.com/DesafioLatam/ACTBOOSTRAP)
 
 ![Layout](img/landing_latam.png "Layout Landing")
